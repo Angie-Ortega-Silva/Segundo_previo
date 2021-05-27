@@ -1,5 +1,5 @@
 ---
-title: "Operación de una planta de oxidación de amoniaco a ácido nítrico / Angie Ortega - 1950173"
+title: "_Operación de una planta de oxidación de amoniaco a ácido nítrico / Angie Ortega - 1950173_"
 output: github_document
 ---
 
@@ -7,16 +7,15 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Planta de oxidación de amoniaco a ácido nítrico
+## _Planta de oxidación de amoniaco a ácido nítrico_
 
 En el presente trabajo, visualizaremos una base de datos con la operación de una planta de oxidación de amoniaco a ácido nítrico, observando el proceso que se lleva a cabo en dicha planta.
 
-## Including Code
+Procedemos a crear un dataframe sobre la planta de oxidación de amoniaco a ácido nítrico:
 
-You can include R code in the document as follows:
-
-```{r cars}
-summary(cars)
+```{r}
+library(readr)
+data("stackloss")
 ```
 
 ## Including Plots
