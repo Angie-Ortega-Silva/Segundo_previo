@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Planta de oxidación de amoniaco a ácido nítrico
 
-En el presente trabajo, visualizaremos una base de datos con la operación de una planta de oxidación de amoniaco a ácido nítrico **stackloss** button all R code chunks are run and a markdown file (.md) suitable for publishing to GitHub is generated.
+En el presente trabajo, visualizaremos una base de datos con la operación de una planta de oxidación de amoniaco a ácido nítrico, observando el proceso que se lleva a cabo en dicha planta.
 
 ## Including Code
 
